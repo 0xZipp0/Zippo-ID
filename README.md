@@ -3,7 +3,7 @@
 
 # Merhaba!
 
-I'm Yusuf, full time learner
+I'm Yusuf, full time learner ![](https://komarev.com/ghpvc/?username=gvoze32&color=FF69B4)
 
 
 
